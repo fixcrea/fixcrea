@@ -4,7 +4,7 @@ FixCrea uses an Extreme Gradient Boosting model to closely approximate an enzyma
 
 ## Online Resources
 
-Online deployment of Extreme Gradient Boosting model: https://fixcrea.onrender.com
+Online deployment of Extreme Gradient Boosting model: https://fixcrea.com or https://fixcrea.onrender.com
 
 Github repo site for machine learning training: https://github.com/fixcrea/fixcrea
 
